@@ -9,3 +9,9 @@ D:\GitWorkSpace\CML.Wechat\CML.Wechat.Api\obj\Debug\netcoreapp2.0\CML.Wechat.Api
 D:\GitWorkSpace\CML.Wechat\CML.Wechat.Api\obj\Debug\netcoreapp2.0\CML.Wechat.Api.AssemblyInfo.cs
 D:\GitWorkSpace\CML.Wechat\CML.Wechat.Api\obj\Debug\netcoreapp2.0\CML.Wechat.Api.dll
 D:\GitWorkSpace\CML.Wechat\CML.Wechat.Api\obj\Debug\netcoreapp2.0\CML.Wechat.Api.pdb
+D:\GitWorkSpace\CML.Wechat\CML.Wechat.Api\bin\Debug\netcoreapp2.0\CML.AspNetCore.dll
+D:\GitWorkSpace\CML.Wechat\CML.Wechat.Api\bin\Debug\netcoreapp2.0\CML.Lib.dll
+D:\GitWorkSpace\CML.Wechat\CML.Wechat.Api\bin\Debug\netcoreapp2.0\CML.Wechat.Dtos.dll
+D:\GitWorkSpace\CML.Wechat\CML.Wechat.Api\bin\Debug\netcoreapp2.0\CML.AspNetCore.pdb
+D:\GitWorkSpace\CML.Wechat\CML.Wechat.Api\bin\Debug\netcoreapp2.0\CML.Lib.pdb
+D:\GitWorkSpace\CML.Wechat\CML.Wechat.Api\bin\Debug\netcoreapp2.0\CML.Wechat.Dtos.pdb

@@ -1,0 +1,9 @@
+D:\GitWorkSpace\CML.Wechat\CML.Wechat.Domain\bin\Debug\netcoreapp2.0\CML.Wechat.Domain.deps.json
+D:\GitWorkSpace\CML.Wechat\CML.Wechat.Domain\bin\Debug\netcoreapp2.0\CML.Wechat.Domain.dll
+D:\GitWorkSpace\CML.Wechat\CML.Wechat.Domain\bin\Debug\netcoreapp2.0\CML.Wechat.Domain.pdb
+D:\GitWorkSpace\CML.Wechat\CML.Wechat.Domain\obj\Debug\netcoreapp2.0\CML.Wechat.Domain.csprojResolveAssemblyReference.cache
+D:\GitWorkSpace\CML.Wechat\CML.Wechat.Domain\obj\Debug\netcoreapp2.0\CML.Wechat.Domain.csproj.CoreCompileInputs.cache
+D:\GitWorkSpace\CML.Wechat\CML.Wechat.Domain\obj\Debug\netcoreapp2.0\CML.Wechat.Domain.AssemblyInfoInputs.cache
+D:\GitWorkSpace\CML.Wechat\CML.Wechat.Domain\obj\Debug\netcoreapp2.0\CML.Wechat.Domain.AssemblyInfo.cs
+D:\GitWorkSpace\CML.Wechat\CML.Wechat.Domain\obj\Debug\netcoreapp2.0\CML.Wechat.Domain.dll
+D:\GitWorkSpace\CML.Wechat\CML.Wechat.Domain\obj\Debug\netcoreapp2.0\CML.Wechat.Domain.pdb

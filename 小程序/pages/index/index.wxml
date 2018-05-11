@@ -1,6 +1,6 @@
 <!--index.wxml-->
 <view class="container">
-  <swiper indicator-dots="{{indicatorDots}}"
+ <!-- <swiper indicator-dots="{{indicatorDots}}"
   autoplay="{{autoplay}}" class="banners" interval="{{interval}}" duration="{{duration}}">
     <block wx:for="{{banner}}">
       <swiper-item class="banner" >
@@ -8,17 +8,17 @@
           <text class="banner-title">{{item.title}}</text>
       </swiper-item>
     </block>
-  </swiper>
+  </swiper>-->
   <view class="news-item-container">
     <block wx:for="{{list}}" wx:for-index="id">
       <text wx:if="{{item.header}}" class="sub-title">{{item.header}}</text>
-      <navigator wx:else url="../detail/detail?id={{item.id}}">
+      <navigator wx:else url="../detail/detail?id={{item.fid}}">
         <view class="news-item" >
           <view class="news-item-left">
-            <text class="news-item-title">{{item.title}}</text>
+            <text class="news-item-title">{{item.fTitle}}</text>
           </view>
           <view class="news-item-right">
-            <image src="{{item.images[0]}}" class="news-image"/>
+            <image src="{{item.fImg}}" class="news-image"/>
           </view>
         </view>
       </navigator>
